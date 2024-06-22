@@ -1,0 +1,21 @@
+{
+    "name": "hilalahmad0101/helloworld-package",
+    "type": "library",
+    "require": {
+        "php": "^7.4 || ^8.1",
+        "codeigniter4/framework": "4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hilalahmad0101\\HelloworldPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hilalahmad0101",
+            "email": "stackf63@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
